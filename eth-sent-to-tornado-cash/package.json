@@ -17,7 +17,7 @@
     "format": "prettier --write \"src/**/*.ts\""
   },
   "dependencies": {
-    "bignumber.js": "^9.0.1",
+    "bignumber.js": "^9.1.2",
     "forta-agent": "^0.0.26"
   },
   "devDependencies": {
