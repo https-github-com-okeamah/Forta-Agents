@@ -28,7 +28,7 @@
   "dependencies": {
     "dotenv": "^16.0.3",
     "forta-agent": "^0.1.48",
-    "lru-cache": "^7.14.1",
+    "lru-cache": "^11.0.1",
     "node-fetch": "^2.6.8"
   },
   "devDependencies": {
