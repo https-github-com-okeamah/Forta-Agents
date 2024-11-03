@@ -54,7 +54,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.4.5",
     "forta-agent": "^0.1.40",
     "node-fetch": "^2.6.8",
     "forta-helpers": "^1.0.9"
