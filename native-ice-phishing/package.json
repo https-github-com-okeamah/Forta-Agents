@@ -60,7 +60,7 @@
     "bot-alert-rate": "^0.0.4",
     "dotenv": "^16.0.3",
     "evm": "^0.1.1",
-    "forta-agent": "^0.1.40",
+    "forta-agent": "^0.1.48",
     "lru-cache": "^7.18.3",
     "node-fetch": "^2.6.9"
   },
