@@ -18,7 +18,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.2.0",
     "bignumber.js": "^9.0.1",
-    "dotenv": "^10.0.0",
+    "dotenv": "^16.4.5",
     "ethereumjs-util": "^7.1.0",
     "forta-agent": "^0.0.26",
     "ganache": "^6.4.4",
