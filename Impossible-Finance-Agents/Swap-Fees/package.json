@@ -24,7 +24,7 @@
     "test": "jest --detectOpenHandles"
   },
   "dependencies": {
-    "@types/lru-cache": "^7.4.0",
+    "@types/lru-cache": "^7.10.9",
     "forta-agent": "^0.1.6"
   },
   "devDependencies": {
