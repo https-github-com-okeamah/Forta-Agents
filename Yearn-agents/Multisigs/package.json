@@ -18,7 +18,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "@types/jest-when": "^2.7.3",
+    "@types/jest-when": "^3.5.5",
     "@types/lru-cache": "^7.4.0",
     "bignumber.js": "^9.0.1",
     "forta-agent": "^0.0.26",
