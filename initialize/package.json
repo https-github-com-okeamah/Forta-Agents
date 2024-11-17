@@ -20,7 +20,7 @@
     "bignumber.js": "^9.0.1",
     "ethereum-checksum-address": "0.0.6",
     "forta-agent": "^0.0.8",
-    "keccak256": "^1.0.3",
+    "keccak256": "^1.0.6",
     "web3": "^4.13.0"
   },
   "devDependencies": {
