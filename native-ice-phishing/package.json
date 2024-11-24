@@ -61,7 +61,7 @@
     "dotenv": "^16.0.3",
     "evm": "^0.1.1",
     "forta-agent": "^0.1.40",
-    "lru-cache": "^7.18.3",
+    "lru-cache": "^11.0.2",
     "node-fetch": "^2.6.9"
   },
   "devDependencies": {
