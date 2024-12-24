@@ -23,7 +23,7 @@
     "bignumber.js": "^9.0.1",
     "forta-agent": "^0.0.32",
     "forta-agent-tools": "^1.0.32",
-    "jest-when": "^3.4.1",
+    "jest-when": "^3.7.0",
     "lru-cache": "^6.0.0"
   },
   "devDependencies": {
