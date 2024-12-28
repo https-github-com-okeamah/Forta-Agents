@@ -39,7 +39,7 @@
     "bignumber.js": "^9.0.1",
     "bot-alert-rate": "^0.0.4",
     "forta-agent": "^0.1.48",
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.4.7"
   },
   "devDependencies": {
     "@types/jest": "^29.5.10",
