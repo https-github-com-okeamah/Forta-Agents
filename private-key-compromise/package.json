@@ -55,7 +55,7 @@
   },
   "dependencies": {
     "bot-alert-rate": "^0.0.4",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.4.7",
     "forta-agent": "^0.1.48",
     "forta-agent-tools": "^3.2.7",
     "lru-cache": "^8.0.4",
