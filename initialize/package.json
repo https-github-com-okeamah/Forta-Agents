@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "abi-decoder": "^2.4.0",
-    "bignumber.js": "^9.0.1",
+    "bignumber.js": "^9.1.2",
     "ethereum-checksum-address": "0.0.8",
     "forta-agent": "^0.0.8",
     "keccak256": "^1.0.3",
