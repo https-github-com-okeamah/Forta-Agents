@@ -25,7 +25,7 @@
     "forta-agent": "^0.0.29",
     "forta-agent-tools": "^2.2.2",
     "jest-when": "^3.4.2",
-    "lru-cache": "^6.0.0"
+    "lru-cache": "^11.1.0"
   },
   "devDependencies": {
     "@types/jest": "^27.0.1",
