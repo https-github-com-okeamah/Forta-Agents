@@ -63,7 +63,7 @@
   },
   "dependencies": {
     "forta-agent": "^0.1.40",
-    "lru-cache": "^7.14.1",
+    "lru-cache": "^11.1.0",
     "moralis": "^2.26.1",
     "dotenv": "^16.0.3",
     "node-fetch": "^2.6.8"
