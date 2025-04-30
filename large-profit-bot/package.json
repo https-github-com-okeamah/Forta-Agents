@@ -65,7 +65,7 @@
     "forta-agent": "^0.1.40",
     "lru-cache": "^7.14.1",
     "moralis": "^2.27.2",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.4.7",
     "node-fetch": "^2.6.8"
   },
   "devDependencies": {
