@@ -20,7 +20,7 @@
     "@uniswap/v2-periphery": "^1.1.0-beta.0",
     "@uniswap/v3-core": "^1.0.0",
     "abi-decoder": "^2.4.0",
-    "bignumber.js": "^9.0.1",
+    "bignumber.js": "^9.2.1",
     "forta-agent": "0.0.26",
     "merkle-patricia-tree": "^4.2.1"
   },
